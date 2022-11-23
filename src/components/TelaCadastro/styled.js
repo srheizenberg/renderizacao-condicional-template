@@ -17,6 +17,10 @@ export const Form = styled.div`
   align-items: center;
   gap: 2rem;
 `;
+export const StyledH1 = styled.h1`
+  padding: 60px;
+  font-sizing: 22px;
+`;
 
 export const Input = styled.input`
   padding: 8px;
